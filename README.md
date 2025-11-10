@@ -51,12 +51,14 @@ Bridge rectifier without filter:
 <img width="1030" height="433" alt="image" src="https://github.com/user-attachments/assets/729a0084-f378-4bac-b025-d9e01b06e034" />
 
 TABULAR COLUMN
+
 Half wave rectifier:
 <img width="506" height="821" alt="image" src="https://github.com/user-attachments/assets/9a95fdd1-2303-4f2d-91b0-c4a39e100bf3" />
 <img width="578" height="822" alt="image" src="https://github.com/user-attachments/assets/984b2364-0964-4148-ae07-3e4e69e2209e" />
 
 
 TABULAR COLUMN
+
 Bridge rectifier:
 <img width="597" height="837" alt="image" src="https://github.com/user-attachments/assets/7da8d20d-2585-4b64-8479-5fee73bf23c1" />
 <img width="545" height="827" alt="image" src="https://github.com/user-attachments/assets/b12a02e8-c63f-4514-b93b-50cd64898b2c" />
@@ -64,8 +66,12 @@ Bridge rectifier:
 
 
 WAVEFORM:
+
 Half wave rectifier with filter:
 <img width="1374" height="881" alt="Screenshot 2025-10-07 093623" src="https://github.com/user-attachments/assets/a816d378-865b-449e-a120-9bd33881bce2" />
+
+Bridge rectifier:
+<img width="1038" height="676" alt="image" src="https://github.com/user-attachments/assets/0ee20083-129b-4775-bfc3-c7c0f644ce29" />
 
 
 RESULT:
